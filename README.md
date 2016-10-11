@@ -1,2 +1,2 @@
-# AngularJSToDo App Test
-Test automation scripts using Selenium, Java, TestNG
+# AngularJS To-Do App Test
+#####Test automation scripts using Selenium, Java, TestNG
